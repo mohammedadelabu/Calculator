@@ -1,10 +1,10 @@
 body {
-    background-image: url(Wunmicuttie\ 20170817_120749.jpg);
+    background-image: url(pixies/Wunmicuttie\ 20170817_120749.jpg);
     background-size: cover;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-size: larger;
-    /* text-align: center;newone*/
+    text-align: center;
 } 
 
 h1 {
